@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sydniward/Desktop/Server Side/Projects/Lab4/Lab4/Lab4.csproj",
+      "projectUniqueName": "/Users/sydniward/Desktop/Server Side/Projects/assignment-4-file-io-and-manipulation-iisydnii/Lab4/Lab4/Lab4.csproj",
       "projectName": "Lab4",
-      "projectPath": "/Users/sydniward/Desktop/Server Side/Projects/Lab4/Lab4/Lab4.csproj",
+      "projectPath": "/Users/sydniward/Desktop/Server Side/Projects/assignment-4-file-io-and-manipulation-iisydnii/Lab4/Lab4/Lab4.csproj",
       "packagesPath": "/Users/sydniward/.nuget/packages/",
-      "outputPath": "/Users/sydniward/Desktop/Server Side/Projects/Lab4/Lab4/obj/",
+      "outputPath": "/Users/sydniward/Desktop/Server Side/Projects/assignment-4-file-io-and-manipulation-iisydnii/Lab4/Lab4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sydniward/.config/NuGet/NuGet.Config"
