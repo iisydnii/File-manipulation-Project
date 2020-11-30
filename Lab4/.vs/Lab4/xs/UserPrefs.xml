@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6D77AC04-886E-4E04-994D-347BBDAC06E2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab4/Word.cs">
+    <Files>
+      <File FileName="Lab4/Program.cs" Line="38" Column="1" />
+      <File FileName="Lab4/Sentence.cs" Line="43" Column="1" />
+      <File FileName="Lab4/Word.cs" Line="37" Column="15" />
+      <File FileName="Lab4/Words.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab4" expanded="True">
+            <Node name="Lab4" expanded="True">
+              <Node name="Word.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sydniward/Desktop/Server Side/Projects/assignment-4-file-io-and-manipulation-iisydnii/Lab4/Lab4/Program.cs" relfile="Lab4/Program.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
